@@ -92,3 +92,5 @@ getScene().getStylesheets().addAll(
     
 ## Youtube view   
 [![Youtube link](src/com/gn/module/media/you.png)](https://youtu.be/hZsYU7UbWmU)
+
+[![](https://jitpack.io/v/zakariyeali/dashboardfx.svg)](https://jitpack.io/#zakariyeali/dashboardfx)
